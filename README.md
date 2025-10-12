@@ -16,7 +16,7 @@ Please refer to the instructions [here](https://docs.google.com/document/d/1PwzT
 
 ## How to Run
 
-### On BCOE GPU Machines (with VirtualGL)
+### On BCOE GPU Machines 
 ```bash
 vglrun python <python_file>
 ```
@@ -42,12 +42,10 @@ To change the output directory, edit:
 frame_path = 'output/%06d' % image.frame
 image.save_to_disk(frame_path + '.png')
 ```
-> Modify `'output/'` to your preferred folder (e.g., `data/bbox_output/`).
 
 ### instance_segmentation.py
 To customize the save location:
 ```python
 instance_image.save_to_disk('instance_segmentation.png')
 ```
-> Example change: `instance_image.save_to_disk('results/seg/frame_%06d.png')`
 
