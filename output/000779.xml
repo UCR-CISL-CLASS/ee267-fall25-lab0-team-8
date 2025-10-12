@@ -1,0 +1,48 @@
+<annotation>
+    <folder>output</folder>
+    <filename>000779.png</filename>
+    <path>/home/user/ee267-fall25-lab0-team-8/output/000779.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>388.22250014728695</xmin>
+            <ymin>303.3045030839014</ymin>
+            <xmax>415.10637547177896</xmax>
+            <ymax>323.81259607719636</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>436.84881413553825</xmin>
+            <ymin>303.52421800880427</ymin>
+            <xmax>448.34630987492045</xmax>
+            <ymax>323.52239819419435</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>422.8602509983025</xmin>
+            <ymin>302.4201730182132</ymin>
+            <xmax>443.33261790992873</xmax>
+            <ymax>317.6377694938416</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,81 @@
+<annotation>
+    <folder>output</folder>
+    <filename>000816.png</filename>
+    <path>/home/user/ee267-fall25-lab0-team-8/output/000816.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>359.76215618630926</xmin>
+            <ymin>304.35129311021524</ymin>
+            <xmax>380.8858158308528</xmax>
+            <ymax>322.1932559771976</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>386.92591475873945</xmin>
+            <ymin>307.02857186036204</ymin>
+            <xmax>417.26830183457196</xmax>
+            <ymax>330.4126327750789</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>447.04145441334805</xmin>
+            <ymin>308.72791227070536</ymin>
+            <xmax>463.1777661214979</xmax>
+            <ymax>335.21045662212117</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>426.91586951739185</xmin>
+            <ymin>306.7601419173173</ymin>
+            <xmax>452.51460754712906</xmax>
+            <ymax>325.4936625237167</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>390.6375732533606</xmin>
+            <ymin>306.08834271468373</ymin>
+            <xmax>413.42505088700807</xmax>
+            <ymax>322.38424990889195</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>424.6595656427559</xmin>
+            <ymin>304.22206921404563</ymin>
+            <xmax>444.28713000525005</xmax>
+            <ymax>322.2007935047195</ymax>
+        </bndbox>
+    </object>
+</annotation>
