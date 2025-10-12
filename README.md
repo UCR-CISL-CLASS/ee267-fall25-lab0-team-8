@@ -9,8 +9,8 @@ Please refer to the instructions [here](https://docs.google.com/document/d/1PwzT
 |------|------------|
 | `traffic_sim.py` | Runs a traffic simulation with vehicles and pedestrians. |
 | `instance_segmentation.py` | Captures and saves instance segmentation output from CARLA. |
-| `bounding_boxes.py` | Displays bounding boxes around detected actors within the simulation. |
-| `bounding_boxes_export.py` | Exports bounding box images to disk for dataset generation. |
+| `bounding_boxes.py` | Displays 3D bounding boxes around detected vehicles within the simulation. |
+| `bounding_boxes_export.py` | Exports bounding box images and details in the PASCAL VOC format. |
 
 ---
 
